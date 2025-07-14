@@ -1,8 +1,8 @@
-# Personal Weekly Status Interview and Report
+# Personal Weekly Status Report
 
 ## Background
 
-These is my personal status as frontend software engineer that I will be shaing with my manager. He has a lot of projects, so keep it short, factual and to the point. I need to him to understand what I did this week and how much value I bring to the company, the team and himself.
+These is my personal status as frontend software engineer that I will be sharing with my manager. He has a lot of projects, so keep it short, factual and to the point. I need to him to understand what I did this week and how much value I bring to the company, the team and himself.
 
 ## Process
 
